@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+.mainHome{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(14, 14, 194);
+    margin-top: 0;
+    padding: 0;
+}
+.headingHome{
+    font-family: Lilita One;
+    color: aliceblue;
+    position: absolute;
+    top: 40%;
+    left: 35%;
+}
+.btn1{
+    position: absolute;
+    top: 50%;
+    left: 48%;
+    
+}
